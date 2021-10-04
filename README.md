@@ -1,4 +1,4 @@
-# FaP_Fivem-Discord-Bot
+# FaP_Fivem-Discord-Bot V1.0
 Fivem Turkish Roleplay Discord Bot
 
 1) requirements.txt'De Bulunan Modülleri Yükleyiniz.
